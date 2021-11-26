@@ -38,7 +38,7 @@ I used my [elevation](https://github.com/acgis-zhan0701/testreadme) R code to cr
 
 
 Estimate processing time can depend on which framework layer that you are choosing.
-For ecozone, estimate processing time is 10 hour.
-For ecoprovince, estimate processing time is 7 hour.
-For ecoregion, esitimate processing time is 5 hour.
-For ecodistrict, estimate processing time is 3 hour.
+For ecozone, estimate processing time is 8 minutes.
+For ecoprovince, estimate processing time is 7 minutes.
+For ecoregion, esitimate processing time is 5 minutes.
+For ecodistrict, estimate processing time is 5 minutes.
