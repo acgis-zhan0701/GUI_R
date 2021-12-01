@@ -56,11 +56,9 @@ I used the [elevation](https://github.com/acgis-zhan0701/testreadme) R script as
 
 I used the [soil great group](https://github.com/acgis-zhan0701/testreadme) R script as a template to create this calculator.
 
-### Soil Great Group
-
-
-Estimate processing time can depend on which framework layer that you are choosing.
-For ecozone, estimate processing time is 8 minutes.
-For ecoprovince, estimate processing time is 7 minutes.
-For ecoregion, esitimate processing time is 5 minutes.
+### Note
+Estimate processing time can depend on which framework layer that you are choosing. <br />
+For ecozone, estimate processing time is 8 minutes. <br />
+For ecoprovince, estimate processing time is 7 minutes. <br />
+For ecoregion, esitimate processing time is 5 minutes. <br />
 For ecodistrict, estimate processing time is 5 minutes.
