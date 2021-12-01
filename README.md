@@ -31,10 +31,10 @@ library("shinyWidgets")
 
 ### Global Variables
 
-GIS datasets for the different level of ecological zone. GIS dataset is produced by CanSIS, https://sis.agr.gc.ca/cansis/nsdb/ecostrat/gis_data.html
-	- "Ecozone_shp.zip"
-	- "Ecoprovince_shp.zip"
-	- "Ecoregion_shp.zip"
+GIS datasets for the different level of ecological zone. GIS dataset is produced by CanSIS, https://sis.agr.gc.ca/cansis/nsdb/ecostrat/gis_data.html <br />
+	- "Ecozone_shp.zip" <br />
+	- "Ecoprovince_shp.zip" <br />
+	- "Ecoregion_shp.zip" <br />
 	- "Ecodistrict_shp.zip"
 
 Soil Great Group information look up table. This table is created by Juanxia (2019). <br />
