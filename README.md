@@ -54,7 +54,7 @@ I used the [elevation](https://github.com/acgis-zhan0701/testreadme) R script as
 
 ### Soil Great Group Calculator
 
-I used the [soil great group](https://github.com/acgis-zhan0701/testreadme) R script as a template to create this calculator.
+I used the [soil great group](https://github.com/acgis-zhan0701/SOILGG) R script as a template to create this calculator.
 
 ### Note
 Estimate processing time can depend on which framework layer that you are choosing. <br />
