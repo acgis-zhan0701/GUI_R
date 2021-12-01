@@ -38,7 +38,7 @@ GIS datasets for the different level of ecological zone. GIS dataset is produced
 	- "Ecodistrict_shp.zip"
 
 Soil Great Group information look up table. This table is created by Juanxia (2019). <br />
-	- "soil_great_group_code.csv"
+	&nbsp;- "soil_great_group_code.csv"
 
 ### Output File
 
